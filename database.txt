@@ -1,0 +1,14 @@
+MYSQL 
+
+Database: medical_store
+
+create database medical_store;
+create table supplier(5);
+
+create table medicine(9);
+
+create table customer();
+
+create table sales();
+
+
